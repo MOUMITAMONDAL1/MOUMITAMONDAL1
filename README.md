@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Web projects**
 
-- 💬 Ask me about **PHP,HTML,CSS,javascript,Python**
+- 💬 Ask me about **HTML,CSS,javascript,Python,Figma**
 
 - 📫 How to reach me **moumitatknr1998@gmail.com**
 
